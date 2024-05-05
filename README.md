@@ -6,6 +6,7 @@ them and work towards your other goals. This Todo list is presented with visuals
 - toggle between dark mode and light mode
 - entering tasks with the enter button or enter key
 - save the task or cancel the edits
+- present the current date
 
 
 ![Screenshot 2024-05-05 145220](https://github.com/mellli1231/Todo/assets/153961300/39d7deaa-73e0-4238-82b7-bfba68f2ceba)
