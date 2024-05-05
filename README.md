@@ -7,7 +7,9 @@ them and work towards your other goals. This Todo list is presented with visuals
 - entering tasks with the enter button or enter key
 - save the task or cancel the edits
 
-![Screenshot 2024-05-05 143714](https://github.com/mellli1231/Todo/assets/153961300/6ee87f78-f47e-4554-a29a-37c385753b4b)
+
+![Screenshot 2024-05-05 145220](https://github.com/mellli1231/Todo/assets/153961300/39d7deaa-73e0-4238-82b7-bfba68f2ceba)
+
 
 This is my first web project and I was able to learn a lot about web design with HTML and CSS. This has also introduced me to JavaScript and is my first project using all three languages! 
 I am hoping to transform this website into a app that is able to add the following features:
