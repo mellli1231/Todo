@@ -10,6 +10,7 @@ them and work towards your other goals. This Todo list is presented with visuals
 
 
 ![Screenshot 2024-05-05 145220](https://github.com/mellli1231/Todo/assets/153961300/39d7deaa-73e0-4238-82b7-bfba68f2ceba)
+![Screenshot 2024-05-05 145457](https://github.com/mellli1231/Todo/assets/153961300/68118532-8c04-44e0-8fc3-f7cc714ab819)
 
 
 This is my first web project and I was able to learn a lot about web design with HTML and CSS. This has also introduced me to JavaScript and is my first project using all three languages! 
