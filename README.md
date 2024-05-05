@@ -1,6 +1,8 @@
 # Todo-List
 
-For this project, I made a Todo list website that includes the following features:
+For this project, I made a Todo list website that helps you keep track of the daily goals in life, and even long term goals.
+You are able to enter a task you want to complete, which will then be added to the list below. Upon completion of your tasks, you are able to then remove
+them and work towards your other goals. This Todo list is presented with visuals appealing to current online aesthetic trends, and includes the following features:
 - toggle between dark mode and light mode
 - entering tasks with the enter button or enter key
 - save the task or cancel the edits
